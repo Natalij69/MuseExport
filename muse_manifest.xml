@@ -1,0 +1,469 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shtory-elena.ru" resolutions="1x" timestamp="1520956876387">
+  <folder name="css">
+    <file name="site_global.css" crc="525936047"/>
+    <file name="master_shpka.css" crc="4213885192" ref="index:galery:ceny"/>
+    <file name="nomq_preview_master_shpka.css" crc="515059008" ref="index:galery:ceny"/>
+    <file name="index.css" crc="4222317754" ref="index"/>
+    <file name="nomq_index.css" crc="341394079" ref="index"/>
+    <file name="galery.css" crc="99052823" ref="galery"/>
+    <file name="nomq_galery.css" crc="3931161446" ref="galery"/>
+    <file name="ceny.css" crc="3800867619" ref="ceny"/>
+  </folder>
+  <folder name="assets">
+    <file name="1.jpg" crc="62850551" seo="true" mt="1518459430000"/>
+    <file name="898.jpg" crc="4027826500" seo="true" mt="1518112334000"/>
+    <file name="201.jpg" crc="97876609" seo="true" mt="1518195924000"/>
+    <file name="307.png" crc="91980141" seo="true" mt="1518798080000"/>
+    <file name="202.jpg" crc="3971788297" seo="true" mt="1518195742000"/>
+    <file name="203.jpg" crc="217677987" seo="true" mt="1518195874000"/>
+    <file name="204.jpg" crc="96869724" seo="true" mt="1518195900000"/>
+    <file name="2.jpg" crc="3939115197" seo="true" mt="1518540016000"/>
+    <file name="3.jpg" crc="71072218" seo="true" mt="1518459330000"/>
+    <file name="4.jpg" crc="3952437119" seo="true" mt="1518798344000"/>
+    <file name="5.jpg" crc="18003587" seo="true" mt="1518189600000"/>
+    <file name="6.jpg" crc="117307171" seo="true" mt="1518189604000"/>
+    <file name="7.jpg" crc="185784455" seo="true" mt="1518539998000"/>
+    <file name="8.jpg" crc="198798585" seo="true" mt="1518538162000"/>
+    <file name="9.jpg" crc="419963328" seo="true" mt="1518798380000"/>
+    <file name="11.jpg" crc="3765588095" seo="true" mt="1518798498000"/>
+    <file name="12.jpg" crc="101972960" seo="true" mt="1518798864000"/>
+    <file name="14.jpg" crc="97098512" seo="true" mt="1520262236000"/>
+    <file name="13.jpg" crc="3872426440" seo="true" mt="1518799652000"/>
+    <file name="899.jpg" crc="3851550321" seo="true" mt="1518112322000"/>
+    <file name="900.jpg" crc="353271190" seo="true" mt="1518112328000"/>
+    <file name="901.jpg" crc="4010237091" seo="true" mt="1518112344000"/>
+    <file name="902.jpg" crc="4039708841" seo="true" mt="1518112346000"/>
+    <file name="903.jpg" crc="4021663040" seo="true" mt="1518112350000"/>
+    <file name="904.jpg" crc="505041396" seo="true" mt="1518539848000"/>
+    <file name="905.jpg" crc="4078586831" seo="true" mt="1518540046000"/>
+    <file name="306.png" crc="432189365" seo="true" mt="1518798050000"/>
+    <file name="305.png" crc="275192881" seo="true" mt="1518797972000"/>
+    <file name="304.png" crc="4045879264" seo="true" mt="1518799694000"/>
+    <file name="303.png" crc="118790885" seo="true" mt="1518201986000"/>
+    <file name="302.png" crc="383822041" seo="true" mt="1518201884000"/>
+    <file name="10.jpg" crc="325205742" seo="true" mt="1518798466000"/>
+    <file name="15.jpeg" crc="185156128" seo="true" mt="1520262266000"/>
+    <file name="16.jpeg" crc="4181637080" seo="true" mt="1520262296000"/>
+    <file name="17.jpeg" crc="3816950709" seo="true" mt="1520264404000"/>
+    <file name="18.jpeg" crc="97467192" seo="true" mt="1520264608000"/>
+    <file name="19.jpeg" crc="231671535" seo="true" mt="1520273620000"/>
+    <file name="20.jpeg" crc="254933209" seo="true" mt="1520262614000"/>
+    <file name="21.jpeg" crc="4232178073" seo="true" mt="1520262596000"/>
+    <file name="22.jpeg" crc="4036588709" seo="true" mt="1520262718000"/>
+    <file name="23.jpeg" crc="4142042731" seo="true" mt="1520262768000"/>
+    <file name="24.jpeg" crc="488694939" seo="true" mt="1520262848000"/>
+    <file name="25.jpg" crc="308771370" seo="true" mt="1520268728000"/>
+    <file name="26.jpg" crc="3980848353" seo="true" mt="1520265540000"/>
+    <file name="27.jpg" crc="375065135" seo="true" mt="1520266756000"/>
+    <file name="28.jpg" crc="394573173" seo="true" mt="1520274234000"/>
+    <file name="29.jpg" crc="74799187" seo="true" mt="1520275074000"/>
+    <file name="30.jpg" crc="4105081086" seo="true" mt="1520349888000"/>
+    <file name="32.jpeg" crc="4287789535" seo="true" mt="1520352734000"/>
+    <file name="33.jpg" crc="70648623" seo="true" mt="1520354934000"/>
+    <file name="34.jpg" crc="506638081" seo="true" mt="1520354952000"/>
+    <file name="35.jpg" crc="3846784198" seo="true" mt="1520355146000"/>
+    <file name="31.jpg" crc="41698736" seo="true" mt="1520356162000"/>
+    <file name="36.jpg" crc="4284828709" seo="true" mt="1520358346000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="form_check.php" crc="218939094" ref="phone>index"/>
+    <file name="form_process.php" crc="238541442" ref="phone>index"/>
+    <file name="form-u40652.php" crc="297408333" ref="phone>index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>galery:index:galery:ceny"/>
+    <file name="form-u36999.php" crc="3905747326" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:galery"/>
+    <file name="form-u45180.php" crc="4215330913" ref="ceny"/>
+  </folder>
+  <folder name="images">
+    <file name="7(4).png" crc="432038572" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12526625982410d594b3.jpg" crc="3898463087" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a56c589e6ac1d47fd81aeffd60b4c9c9.jpg" crc="3963083082" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rimskie-shtory-v-interere-gostinoj-br_3_1.jpg" crc="4115338698" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon (2).png" crc="125831610" seo="true" ref="phone>index:index:galery:ceny">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="7(5)-crop-u40585.png" crc="116342053" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon (1).png" crc="464674154" seo="true" ref="phone>index:index:galery:ceny">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="h.png" crc="4056077760" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon (4).png" crc="4002294155" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="381235966" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u40516.png" crc="4091298385" ref="phone>index"/>
+    <file name="u40516-r.png" crc="201166023" ref="phone>index"/>
+    <file name="u40519.png" crc="3786446360" ref="phone>index"/>
+    <file name="u40519-r.png" crc="133380506" ref="phone>index"/>
+    <file name="u40523.png" crc="51130991" ref="phone>index"/>
+    <file name="u40523-r.png" crc="4077992879" ref="phone>index"/>
+    <file name="6.png" crc="4121477672" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="222103053" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="4224492882" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-u40596-fr.png" crc="3484716" ref="phone>index"/>
+    <file name="shapka5.jpg" crc="248293090" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:galery"/>
+    <file name="shapka2.jpg" crc="356050380" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shapka3.jpg" crc="4141055479" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="vhod_tc-crop-u40557.png" crc="80188698" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vhod_lesnica.jpg" crc="240018947" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vhod-crop-u40555.jpg" crc="4093941570" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vhod_tc60x42.png" crc="3941250037" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vhod_lesnica34x45.jpg" crc="4200621029" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vhod60x39.jpg" crc="3809877023" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="201.jpg" crc="97876609" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="204.jpg" crc="96869724" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="202.jpg" crc="3971788297" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="203.jpg" crc="217677987" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="1.jpg" crc="62850551" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3952437119" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="7.jpg" crc="185784455" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="11.jpg" crc="3765588095" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="14.jpg" crc="97098512" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3939115197" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="5.jpg" crc="18003587" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="8.jpg" crc="198798585" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="12.jpg" crc="101972960" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="3.jpg" crc="71072218" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="6.jpg" crc="117307171" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="9.jpg" crc="419963328" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="13.jpg" crc="3872426440" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="898.jpg" crc="4027826500" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="901.jpg" crc="4010237091" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="904.jpg" crc="505041396" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="899.jpg" crc="3851550321" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="902.jpg" crc="4039708841" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="905.jpg" crc="4078586831" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="900.jpg" crc="353271190" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="903.jpg" crc="4021663040" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="307.jpg" crc="110928039" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="305.jpg" crc="215423800" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="303.jpg" crc="61422299" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="306.jpg" crc="322440330" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="304.jpg" crc="4163586567" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="302.jpg" crc="242292661" ref="phone>galery:galery">
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+    </file>
+    <file name="5538x593.png" crc="381235966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16323.png" crc="126132096" ref="index"/>
+    <file name="u16323-r.png" crc="4294797736" ref="index"/>
+    <file name="u16335.png" crc="4103441480" ref="index"/>
+    <file name="u16335-r.png" crc="121421961" ref="index"/>
+    <file name="u15802.png" crc="246049836" ref="index"/>
+    <file name="u15802-r.png" crc="244129947" ref="index"/>
+    <file name="4.png" crc="4270537189" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15.jpg" crc="3995570949" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u512-6.png" crc="285821326" ref="index:galery:ceny"/>
+    <file name="u2437-5.png" crc="3867567847" ref="index:galery:ceny"/>
+    <file name="11.png" crc="493559682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.png" crc="137346984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-1.jpg" crc="4231469383" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="108154682" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7(5)-crop-u25688.png" crc="4225690468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vhod_tc.png" crc="27406706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vhod.jpg" crc="6529477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon (3).png" crc="3784032733" seo="true" ref="index:galery:ceny">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="galery" alt=""/>
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="u163352.png" crc="3786446360" ref="index"/>
+    <file name="u16335-r2.png" crc="133380506" ref="index"/>
+    <file name="u163232.png" crc="4091298385" ref="index"/>
+    <file name="u16323-r2.png" crc="201166023" ref="index"/>
+    <file name="5174x192.png" crc="370329257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u158022.png" crc="51130991" ref="index"/>
+    <file name="u15802-r2.png" crc="4077992879" ref="index"/>
+    <file name="7(5)-crop-u256882.png" crc="116342053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25.jpg" crc="308771370" ref="ceny">
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="25-u41826-r-fr.png" crc="4151694824" ref="ceny"/>
+    <file name="17.jpg" crc="3816950709" ref="ceny">
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="17-u41840-r-fr.png" crc="3878300381" ref="ceny"/>
+    <file name="27.jpg" crc="375065135" ref="ceny">
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="27-u41859-r-fr.png" crc="376348158" ref="ceny"/>
+    <file name="19.jpg" crc="231671535" ref="ceny">
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="19-u43266-r-fr.png" crc="71709352" ref="ceny"/>
+    <file name="28.jpg" crc="394573173" ref="ceny">
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="28-u43340-r-fr.png" crc="381867990" ref="ceny"/>
+    <file name="29.jpg" crc="74799187" ref="ceny">
+      <caption webpage="ceny" alt=""/>
+    </file>
+    <file name="29-u43360-r-fr.png" crc="333394611" ref="ceny"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_shpka.css" crc="4161204653" ref="phone>index:phone>galery"/>
+      <file name="nomq_preview_master_shpka.css" crc="3824530138" ref="phone>index:phone>galery"/>
+      <file name="index.css" crc="4167802775" ref="phone>index"/>
+      <file name="galery.css" crc="4016870180" ref="phone>galery"/>
+      <file name="nomq_galery.css" crc="3824530138" ref="phone>galery"/>
+    </folder>
+    <file name="index.html" crc="3841195272" seo="true" mt="1520953986074" redirect="true"/>
+    <file name="galery.html" crc="210868269" seo="true" mt="1520344337720" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="395372018" seo="true" mt="1520956776046" redirect="true"/>
+  <file name="galery.html" crc="412071708" seo="true" mt="1520956776046" redirect="true"/>
+  <file name="ceny.html" crc="174633566" seo="true" mt="1520956776046" redirect="true"/>
+</manifest>
